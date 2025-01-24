@@ -5,10 +5,9 @@ Welcome to my GitHub profile! I specialize in building beautiful, performant, an
 
 ## About Me
 - 🔭 I’m currently working on **[Expense Tracker](https://github.com/johndoe/expense-tracker)**
-- 🌱 I’m currently learning **state management solutions like Riverpod**
-- 👯 I’m looking to collaborate on **Flutter open-source projects**
+- 👯 I’m looking to collaborate on Flutter open-source projects
 - 💬 Ask me about **Flutter, Firebase, and mobile app development**
-- 📫 How to reach me: [omar.saied.987@gmail.com]
+- 📫 How to reach me: omar.saied.987@gmail.com
 - ⚡ Fun fact: When I'm not coding, I'm sketching app interfaces or exploring animations!
 
 ## 🚀 Skills
